@@ -1,3 +1,23 @@
+header{
+  display: flex;
+  background-color: aqua;
+}
+
+.infoMij{
+  background-color: aqua;
+  border: 1px;
+
+}
+.curio{
+  width: 100px;
+  height: 100px;
+}
+
+
+
+
+
+
 footer{
-  background-color: green;
+  background-color: black;
 }

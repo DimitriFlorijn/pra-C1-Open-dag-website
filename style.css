@@ -30,7 +30,15 @@ main{
   border: 1px dotted black;
 }
 
+h1{
+  text-align: center;
+}
 
+.overgangBlocken img{
+  width: 750px;
+  height: 350px;
+  
+}
 
 
 
